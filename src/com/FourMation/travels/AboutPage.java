@@ -16,7 +16,7 @@ public class AboutPage extends JFrame implements ActionListener{
 	JButton b1;
     JLabel l1;
     Font f, f1, f2;
-    TextArea t1;ghhgg
+    TextArea t1;
 
 	public static void main(String[] args) 
 	{
